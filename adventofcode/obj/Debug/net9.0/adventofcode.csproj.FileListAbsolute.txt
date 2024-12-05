@@ -1,0 +1,14 @@
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\bin\Debug\net9.0\adventofcode.exe
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\bin\Debug\net9.0\adventofcode.deps.json
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\bin\Debug\net9.0\adventofcode.runtimeconfig.json
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\bin\Debug\net9.0\adventofcode.dll
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\bin\Debug\net9.0\adventofcode.pdb
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.AssemblyInfoInputs.cache
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.AssemblyInfo.cs
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.csproj.CoreCompileInputs.cache
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.dll
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\refint\adventofcode.dll
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.pdb
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.genruntimeconfig.cache
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\ref\adventofcode.dll
