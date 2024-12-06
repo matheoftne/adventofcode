@@ -12,3 +12,4 @@ D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\ref
 D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.pdb
 D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.genruntimeconfig.cache
 D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\ref\adventofcode.dll
+D:\Documents\Betclic\AdventOfCode\adventofcode\adventofcode\obj\Debug\net9.0\adventofcode.sourcelink.json
