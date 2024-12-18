@@ -6,7 +6,7 @@ class Day01
 {
     static void Main(string[] args)
     {
-        var filePath = "../../../../adventofcode/input.txt";
+        var filePath = "../../../../adventofcode/Day01/Day01.txt";
         
         // Initialize lists
         List<int> list1 = new List<int>();
