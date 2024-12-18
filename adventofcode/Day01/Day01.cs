@@ -1,10 +1,12 @@
-﻿using System;
+﻿namespace adventofcode.Day01;
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
-class Day01
+public class Day01
 {
-    static void Main(string[] args)
+    public static void Run(string[] args)
     {
         var filePath = "../../../../adventofcode/Day01/Day01.txt";
         
