@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-public class Day01
+public class Day03
 {
     public static void Run(string[] args)
     {

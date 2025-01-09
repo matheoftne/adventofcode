@@ -10,11 +10,14 @@ class Program
         switch (input)
         {
             case "1":
-                adventofcode.Day01.Day01.Run(args);
+                adventofcode.Day01.Day03.Run(args);
                 break;
             case "2":
                 adventofcode.Day02.Day02.Run(args);
-                break; 
+                break;
+            case "3":
+                adventofcode.Day03.Day03.Run(args);
+                break;
             default:
                 Console.WriteLine("Invalid day");
                 break;
