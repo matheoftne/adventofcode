@@ -1,2 +1,13 @@
-bin
-*.csproj
+bin/
+obj/
+
+*.user
+*.userosscache
+
+.vs/
+*.suo
+*.csproj.user
+*.sln.docstates
+
+*.log
+*.tmp
