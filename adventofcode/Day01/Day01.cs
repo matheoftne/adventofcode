@@ -9,7 +9,7 @@ namespace adventofcode.Day01
     {
         public static void Run(string[] args)
         {
-            var filePath = "../../../../adventofcode/Day01/input.txt";
+            var filePath = "../../../../adventofcode/adventofcode/Day01/input.txt";
 
             // Initialize lists
             List<int> list1 = new List<int>();
